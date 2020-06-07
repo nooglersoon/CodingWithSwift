@@ -1,3 +1,5 @@
+// Project Euler Problem Set 3
+
 var numbers = 60;
 var array = [Int]()
 var counter = 0;
